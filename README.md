@@ -1,6 +1,6 @@
 [<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jatin1o1&show_icons=true&theme=vue&hide=prs,issues,contribs"/>](https://github.com/iAmSt0rm?tab=repositories)
 
-# `Hi! Jatin1o1!`
+# `Hi! I'm Jatin1o1!`
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,7 +46,7 @@
 
 ### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*TechStack*
 [<img align="center" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="TensorFlow" alt="TensorFlow" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg" />]()&nbsp;&nbsp;
+[<img align="center" title="TensorFlow" alt="TensorFlow" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="OpenCV" alt="OpenCV" height="26px" src="https://user-images.githubusercontent.com/44945139/90947183-88fd3180-e451-11ea-8a18-0ff2ce9f9c4c.png" />](#)&nbsp;
 [<img align="center" height="28px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
 [<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)
@@ -69,7 +69,7 @@
 [<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp; -->
 ---
-<br>
+
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="24px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
 
