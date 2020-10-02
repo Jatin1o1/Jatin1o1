@@ -4,7 +4,6 @@
 
 <!--
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamst0rm&show_icons=true&theme=default&hide=prs,issues,contribs)
 -->
 
 [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/2905/2905935.svg"/>](#) &nbsp; Currently working on a special project with [Paras Verma](https://github.com/iAmSt0rm).
