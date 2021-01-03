@@ -1,4 +1,4 @@
-[<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jatin1o1&show_icons=true&theme=vue&hide=prs,issues,contribs"/>]
+<img title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jatin1o1&show_icons=true&theme=vue&hide=prs,issues,contribs"/>
 
 # `Hi! I'm Jatin1o1!`
 
