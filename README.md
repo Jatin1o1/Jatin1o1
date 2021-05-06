@@ -6,7 +6,7 @@
 **iAmSt0rm/iAmSt0rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/1693/1693746.svg"/>](#) &nbsp; Specializes in Robotics & Mech
+[<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/1693/1693746.svg"/>](#) &nbsp; Specializes in Robotics and IoT
 
 [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/677/677440.svg"/>](#) &nbsp; Electronics Engineer
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
