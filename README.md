@@ -14,7 +14,7 @@
 
 <br>
 
-## [<img align="center" title="Medium" alt="medium" width="28px" src="https://image.flaticon.com/icons/svg/1404/1404716.svg" />](https://medium.com/@iamstorm)&nbsp;`#inventor`
+## [<img align="center" title="Medium" alt="medium" width="28px" src="https://image.flaticon.com/icons/svg/1404/1404716.svg" />](https://medium.com/@iamstorm)&nbsp;`#Hobbyist`
 - [Sally - The Humanoid #humanoid #robot](https://www.youtube.com/watch?v=_UPRzFRwuPA)&nbsp;
 
 - [Humanoid Robot Teardown | Head](https://www.youtube.com/watch?v=uVF4Qkm-B8E)&nbsp;
