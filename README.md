@@ -50,18 +50,6 @@
 [<img align="center" title="Mosquitto MQTT" alt="Mosquitto MQTT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eclipsemosquitto.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/r.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/o.png" /><img align="center" title="RobotOperatingSystem (ROS)" alt="RobotOperatingSystem (ROS)" width="22px" src="https://img.icons8.com/ios-filled/100/000000/s.png" />](#)&nbsp;
 
-<!-- ### [<img align="center" title="Programming" alt="Code" width="20px" src="https://img.icons8.com/material-sharp/96/000000/vector.png" />](#) *Creative Suite*
-
-[<img align="center" title="Adobe Lightroom" alt="Adobe Lightroom" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobelightroomclassic.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe Photoshop CC" alt="Adobe Photoshop CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobephotoshop.svg" />](#)
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Adobe Illustrator CC" alt="C++" alt="Adobe Illustrator CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeillustrator.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe XD" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobexd.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe InDesign CC" alt="Adobe InDesign CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeindesign.svg" />](#)
-[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Adobe PremierePro CC" alt="Adobe PremierePro CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobepremierepro.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Adobe AfterEffects CC" alt="Adobe AfterEffects CC" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/adobeaftereffects.svg" />](#)&nbsp;&nbsp; -->
----
 
 
 ## [<img align="center" title="Social Media" alt="Social Media" width="24px" src="https://image.flaticon.com/icons/svg/929/929610.svg" />](#)&nbsp;Connect with me:
