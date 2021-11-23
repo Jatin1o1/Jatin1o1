@@ -2,13 +2,10 @@
 
 # `Hi! I'm Jatin1o1!`
 
-<!--
-**Jatin1o1* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## this guy is amazing
-<a href="https://www.buymeacoffee.com/fabtesta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+## Contribute to my work
+<a href="https://www.buymeacoffee.com/Jatin1o1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
--->
 
 [<img align="center" height="25px" src="https://image.flaticon.com/icons/svg/1693/1693746.svg"/>](#) &nbsp; Specializes in Robotics and IoT
 
