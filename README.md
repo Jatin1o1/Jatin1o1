@@ -12,17 +12,11 @@
 
 ## [<img align="center" title="Medium" alt="medium" width="28px" src="https://image.flaticon.com/icons/svg/1404/1404716.svg" />](https://medium.com/@iamstorm)&nbsp;`#Hobbyist`
 - [Sally - The Humanoid #humanoid #robot](https://www.youtube.com/watch?v=_UPRzFRwuPA)&nbsp;
-
 - [Humanoid Robot Teardown | Head](https://www.youtube.com/watch?v=uVF4Qkm-B8E)&nbsp;
-
 - [Prosthetic limb | Humanoid Robotic Hand](https://www.youtube.com/watch?v=eH_8qiFwioc)&nbsp;
-
 - [Disinfectant-Spray System on AGV Chasis](https://www.youtube.com/watch?v=hRbAY1xe_88)&nbsp;
-
 - [Automatic Sanitizer dispenser in RO Water Purifier Chasis](https://www.youtube.com/watch?v=rvJaeac6Jjg)&nbsp;
-
 - [Home Automation](https://www.youtube.com/watch?v=rJV8iy_-iQ8)&nbsp;
-
 - [BugDroid (Android) Robot](https://www.youtube.com/watch?v=ZZZXJySF_UQ)&nbsp;
 
 <br>
