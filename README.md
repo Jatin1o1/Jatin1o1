@@ -44,7 +44,7 @@ I'm a self-taught passionate Robotic Software developer from India 🇮🇳
 ## [<img align="center" title="Social Media" alt="Social Media" width="32px" src="https://cdn-icons-png.flaticon.com/512/2065/2065157.png" />](#)&nbsp;Connect with me:
 
 [<img align="center" title="LinkedIn | Jatin Goyal" alt="Jatin1o1 | LinkedIn" height="28px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] &nbsp;&nbsp;&nbsp;
-[<img align="center" title="Instagram | Paras Verma" alt="Jatin1o1 | Instagram" height="28px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram] &nbsp;&nbsp;&nbsp;
+[<img align="center" title="Instagram |Jatin Goyal" alt="Jatin1o1 | Instagram" height="28px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram] &nbsp;&nbsp;&nbsp;
 [<img align="center" title="Instagram | Jatin Goyal" alt="Jatin1o1 | Instagram" height="28px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg" />][Buy me a coffee] &nbsp;&nbsp;&nbsp;
 
 [linkedin]: https://www.linkedin.com/in/jatin1o1/
