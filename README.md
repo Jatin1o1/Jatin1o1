@@ -9,7 +9,7 @@ I'm a self-taught passionate Robotic Software developer from India 🇮🇳
 
 - ❤️ I love Coding, and building fun experiments
 
-- 💬 Ask me about anything [here](https://github.com/Jatin1o1/Jatin1o1/issues)
+- 💬 Ask me about anything [here](https://github.com/Jatin1o1/Jatin1o1/issues) / [Telegram](https://t.me/Jatin1o1)
 
 <br>
 
