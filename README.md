@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="200%" src="./Hello!_I'm_Jatin.png" /></a></p>
+<p align="center"><img width="200%" src="./Hello!_I'm_Jatin.png" /></a></p>
 <br />
 
 I'm a self-taught passionate Robotic Software developer from India.
