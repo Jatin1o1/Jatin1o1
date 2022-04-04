@@ -1,7 +1,7 @@
 <p align="center"><img width="200%" src="./Hello!_I'm_Jatin.png" /></a></p>
 <br />
 
-I'm a self-taught passionate Robotic Software developer from India.
+I'm a self-taught Software developer from India.
 
 **About me**
 
