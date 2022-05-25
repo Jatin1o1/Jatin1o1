@@ -7,7 +7,7 @@ I'm a self-taught Software developer from India.
 
 -  💼  Software Engineer | Ex- Robotic Software Engineer 
 
-- ❤️ I love Coding, and building fun experiments
+- ❤️ I love Coding, and building Gadgets.
 
 - 💬 Ask me about anything [here](https://github.com/Jatin1o1/Jatin1o1/issues) / [Telegram](https://t.me/Jatin1o1)
 
