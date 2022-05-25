@@ -5,7 +5,7 @@ I'm a self-taught Software developer from India.
 
 **About me**
 
-- 💼 Robotic Software Engineer 
+-  💼  Software Engineer | Ex- Robotic Software Engineer 
 
 - ❤️ I love Coding, and building fun experiments
 
